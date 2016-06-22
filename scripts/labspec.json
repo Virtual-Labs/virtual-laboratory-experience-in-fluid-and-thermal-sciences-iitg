@@ -21,13 +21,13 @@
                 {
                     "contact": {
                         "alternate_email": "", 
-                        "email": "liza@iitg.ernet.in", 
+                        "email": "vinayak@iitg.ernet.in", 
                         "mobile_number": "", 
                         "office_number": ""
                     }, 
-                    "department": "", 
+                    "department": "Mechanical Engineering", 
                     "institute": "IIT Guwahati", 
-                    "name": "Liza Das", 
+                    "name": "Prof. Vinayak Kulkarni", 
                     "organization": "", 
                     "role": "Principal Investigator", 
                     "title": "", 
@@ -36,13 +36,13 @@
                 {
                     "contact": {
                         "alternate_email": "", 
-                        "email": "pkdas@iitg.ernet.in", 
+                        "email": "shock@iitg.ernet.in", 
                         "mobile_number": "", 
                         "office_number": ""
                     }, 
-                    "department": "", 
+                    "department": "Mechanical Engineering", 
                     "institute": "IIT Guwahati", 
-                    "name": "Pradip Kr. Das", 
+                    "name": "Prof. Niranjan Sahoo", 
                     "organization": "", 
                     "role": "Co-Principal Investigator", 
                     "title": "", 
@@ -50,11 +50,11 @@
                 } 
             ], 
             "discipline": [
-                "Humanities and Social Sciences"
+                "Mechanical Engineering"
             ], 
-            "id": "hss01", 
-            "integration_level": 5, 
-            "name": "Virtual English", 
+            "id": "me02", 
+            "integration_level": 6, 
+            "name": "Virtual Laboratory Experience in Fluid and Thermal Sciences", 
             "server-side": true, 
             "status": "Released", 
             "type": ""
