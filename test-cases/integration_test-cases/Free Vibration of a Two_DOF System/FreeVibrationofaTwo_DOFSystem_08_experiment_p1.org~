@@ -1,0 +1,28 @@
+* Author: GAUTAM NOMO SUDRO
+* Date Created: 15 June 2016
+* Environment
+  - OS: Windows 7,Ubuntu-16.04,CentOS-6
+  - Browsers: Firefox-42.0,Chrome-47.0,Chromium-45.0
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GB RAM , 
+  - Processor:i7
+
+* Objective
+  - To Perform the Experiment of Free Vibration of a Two_DOF System experiment
+
+* Pre conditions
+  - Refer to first test case [[][]] 
+
+* Post conditions
+   - Nil
+* Test Steps
+  1. Refer to FreeVibrationofaTwo_DOFSystem_07_experiment_smk.org
+  2. Click on "Download Executable File to Perform Offline ( Low Bandwidth)" link
+  3. Extract the zip file and run the executable file
+
+* Expected result
+  1. Refer to FreeVibrationofaTwo_DOFSystem__07_experiment_smk.org
+  2. Executable file to perform the experiment should be downloaded
+  3. Executable file must run successfully
+
+* Review comments

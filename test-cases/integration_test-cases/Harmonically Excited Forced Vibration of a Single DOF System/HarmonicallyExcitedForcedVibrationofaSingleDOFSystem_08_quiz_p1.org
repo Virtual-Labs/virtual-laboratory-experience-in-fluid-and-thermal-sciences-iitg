@@ -1,0 +1,31 @@
+* Author: HRISHIKESH BARUAH
+* Date Created: 15 June 2016
+* Environment
+  - OS: Windows 7,Ubuntu-16.04,CentOS-6
+  - Browsers: Firefox-42.0,Chrome-47.0,Chromium-45.0
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GB RAM  
+  - Processor:i7,
+
+* Objective
+  - To view and take the quiz of Harmonicaly Excited Forced Vibration of a Single DOF System experiment
+
+* Pre conditions
+  - Refer to first test case [] 
+
+* Post conditions
+   - Nil
+* Test Steps
+  1. Refer to HarmonicallyExcitedForcedVibrationofaSingleDOFSystem_07_quiz_smk.org
+  2. Select the correct answer using the corresponding buttons 
+  3. The options should be validated with the backend database
+  4. Click on the "=>" button to move to the next question or "<=" to move to the previous question and repeat step 2
+
+
+* Expected result
+  1. Refer to HarmonicallyExcitedForcedVibrationofaSingleDOFSystem_07_quiz_smk.org 
+  2. If the selected option is correct a message should be displayed indicating that the selected answer is correct.
+  3. The next/previous question is displayed.
+
+
+* Review comments
