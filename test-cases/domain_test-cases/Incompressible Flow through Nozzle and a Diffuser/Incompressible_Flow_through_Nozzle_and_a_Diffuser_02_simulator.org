@@ -1,0 +1,33 @@
+* Author: BIJU DAS
+* Date Created: 02 Mar 2016
+* Environment
+  - OS: Windows 7,Ubuntu-16.04,CentOS-6
+  - Browsers: Firefox-42.0,Chrome-47.0,Chromium-45.0
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GB RAM , 
+  - Processor:i7
+
+* Objective
+  - To perform the Experiment of the Incompressible Flow through Nozzle and a Diffuser experiment
+
+* Pre conditions
+  - 1. Open the url vlabs.ac.in and vlabs home page is displayed 
+ 
+    2. Click on IIT-Guwahati and a list of labs is displayed on the screen 
+  
+    3. Select Virtual Laboratory Experience in Fluid and Thermal Sciences, a home page is displayed and click on List of experiments link,  where a list of experiments will be displayed on the screen
+  
+    4. Selected  "Incompressible Flow through Nozzle and a Diffuser" experiment.
+
+* Post conditions
+  - Nil
+
+* Test Steps
+  1. Click on the "Click Here to Download the Experiment" link
+  2. Run the .exe file on your system. 
+
+* Expected result
+  1. The exe file should get downloaded in your system.
+  2. The exe flie should run without any error.
+
+* Review comments

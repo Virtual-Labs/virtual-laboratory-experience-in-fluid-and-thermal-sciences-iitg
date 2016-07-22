@@ -1,0 +1,29 @@
+* Author: Biju Das
+* Date Created: 31 May 2016
+* Environment
+  - Ubuntu-16.04
+  - Browsers: Chrome-47.0
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GB RAM , 
+  - Processor:i7
+
+* Objective
+  - To perform the experiment of the Simulator of the "Flow through Venturi meter" experiment
+
+* Pre conditions
+  - Refer to first test case [[Flow_through_Venturi_meter_01_usability_smk.org]] 
+
+* Post conditions
+   - Nil
+
+* Test Steps
+  1. Refer to Flow_through_Venturi_meter_08_simulator_smk.org
+  2. Click on " CLICK HERE TO DOWNLOAD THE EXPERIMENT " link
+  3. Run the exe file
+
+* Expected result
+  1.Refer to Flow_through_Venturi_meter_08_simulator_smk.org
+  2.The exe file should get downloaded in your system.
+  3. The experiment should run properly.
+
+* Review comments
