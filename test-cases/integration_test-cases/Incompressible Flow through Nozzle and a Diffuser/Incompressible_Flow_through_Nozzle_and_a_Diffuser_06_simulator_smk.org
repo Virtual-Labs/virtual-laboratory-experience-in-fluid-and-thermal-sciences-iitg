@@ -11,7 +11,7 @@
   - To perform the Simulator of the "Incompressible Flow through Nozzle and a Diffuser" experiment
 
 * Pre conditions
-  - Refer to first test case [[Incompressible_Flow_through_Nozzle_and_a_Diffuser_01_usability_smk.org]]
+  - Refer to first test case [[https://github.com/Virtual-Labs/virtual-laboratory-experience-in-fluid-and-thermal-sciences-iitg/blob/master/test-cases/integration_test-cases/Incompressible%20Flow%20through%20Nozzle%20and%20a%20Diffuser/Incompressible_Flow_through_Nozzle_and_a_Diffuser_01_usability_smk.org][Incompressible_Flow_through_Nozzle_and_a_Diffuser_01_usability_smk.org]]
 
 * Post conditions
    - Nil
