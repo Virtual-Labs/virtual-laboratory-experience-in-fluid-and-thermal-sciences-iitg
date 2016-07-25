@@ -11,7 +11,7 @@
   - To check Demonstration video link of the  "To determine the overall heat transfer coefficient (U) in the counter flow heat exchancher" experiment.
 
 * Pre conditions
-  - Refer to first test case [[Counter_flow_01_usuability_smk.org]]
+  - Refer to first test case [[https://github.com/Virtual-Labs/virtual-laboratory-experience-in-fluid-and-thermal-sciences-iitg/blob/master/test-cases/integration_test-cases/To%20determine%20the%20overall%20heat%20transfer%20coefficient%20(U)%20in%20the%20counter%20flow%20heat%20exchanger/Counter_flow_01_usuability_smk.org][Counter_flow_01_usuability_smk.org]]
 
 * Post conditions
    - Nil
