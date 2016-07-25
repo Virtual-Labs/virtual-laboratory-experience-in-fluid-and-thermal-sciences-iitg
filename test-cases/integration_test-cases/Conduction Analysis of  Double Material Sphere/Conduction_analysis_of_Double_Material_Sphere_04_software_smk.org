@@ -11,7 +11,7 @@
   - To view the Software of the "Conduction analysis of Double Material Sphere" experiment
 
 * Pre conditions
-  - Refer to first test case [[ Conduction_analysis_of_Double_Material_Sphere_01_usability_smk.org ]]
+  - Refer to first test case [[https://github.com/Virtual-Labs/virtual-laboratory-experience-in-fluid-and-thermal-sciences-iitg/blob/master/test-cases/integration_test-cases/Conduction%20Analysis%20of%20%20Double%20Material%20Sphere/Conduction_analysis_of_Double_Material_Sphere_01_usability_smk.org][Conduction_analysis_of_Double_Material_Sphere_01_usability_smk.org ]]
 
 * Post conditions
    - Nil
