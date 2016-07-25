@@ -11,7 +11,7 @@
   - To view the Procedure of the "Conduction analysis of Single Material Cylinder" experiment
 
 * Pre conditions
-  - Refer to first test case [[Conduction_Analysis_of_a_Single_Material_Cylinder_01_usability_smk.org]]
+  - Refer to first test case [[https://github.com/Virtual-Labs/virtual-laboratory-experience-in-fluid-and-thermal-sciences-iitg/blob/master/test-cases/integration_test-cases/Conduction%20Analysis%20of%20%20Single%20Material%20Cylinder/Conduction_Analysis_of_a_Single_Material_Cylinder_01_usability_smk.org][Conduction_Analysis_of_a_Single_Material_Cylinder_01_usability_smk.org]]
 
 * Post conditions
    - Nil
