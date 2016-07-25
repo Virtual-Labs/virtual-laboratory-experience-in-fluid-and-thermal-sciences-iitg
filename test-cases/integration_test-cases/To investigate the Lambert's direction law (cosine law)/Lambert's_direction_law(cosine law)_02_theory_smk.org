@@ -11,7 +11,7 @@
   - To view the Theory of the "To investigate the Lambert’s direction law (cosine law)" experiment
 
 * Pre conditions
-  - Refer to first test case [[Lambert's_direction_law(cosine law)_01_usability_smk.org]]
+  - Refer to first test case [[https://github.com/Virtual-Labs/virtual-laboratory-experience-in-fluid-and-thermal-sciences-iitg/blob/master/test-cases/integration_test-cases/To%20investigate%20the%20Lambert's%20direction%20law%20(cosine%20law)/Lambert's_direction_law(cosine%20law)_01_usability_smk.org][Lambert's_direction_law(cosine law)_01_usability_smk.org]]
 
 * Post conditions
    - Nil
