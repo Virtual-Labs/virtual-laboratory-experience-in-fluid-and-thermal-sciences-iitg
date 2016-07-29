@@ -11,7 +11,7 @@
   - To view the Theory of the "Energy losses in pipe flow" experiment
 
 * Pre conditions
-  - Refer to first test case [[ Energy_losses_01_usability_smk.org]]
+  - Refer to first test case [[https://github.com/Virtual-Labs/virtual-laboratory-experience-in-fluid-and-thermal-sciences-iitg/blob/master/test-cases/integration_test-cases/Energy/Energy_01_usability_smk.org][Energy_01_usability_smk.org]]
 
 * Post conditions
    - Nil
