@@ -24,7 +24,9 @@
 
 * Expected result
   1.Refer to DoubleMaterialSlab_06_simulator_smk.org
-  2.The exe file should get downloaded in the system.
-  3.The experiment should run prooperly.
+  
+  2.The exe file should get downloaded in the system
+  
+  3.The experiment should run prooperly
 
 * Review comments
