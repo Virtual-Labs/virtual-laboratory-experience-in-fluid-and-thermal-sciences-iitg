@@ -17,13 +17,13 @@
    - Nil
 
 * Test Steps
-  1.Refer to  test case [[ Conduction_analysis_of_Double_Material_Cylinder_06_simulator_smk.org]
+  1.Refer to  test case DoubleMaterialCylinder_06_simulator_smk.org]
   2. Click on " CLICK HERE TO DOWNLOAD THE EXPERIMENT " link
   3. Run the exe file
 
 
 * Expected result
-  1.Refer to  test case Conduction_analysis_of_Double_Material_Cylinder_06_simulator_smk.org
+  1.Refer to  test case DoubleMaterialCylinder_06_simulator_smk.org
   2.The exe file should get downloaded in your system
   3.The experiment should run properly
 
