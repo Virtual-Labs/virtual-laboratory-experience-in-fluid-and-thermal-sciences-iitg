@@ -12,18 +12,18 @@
 
 
 * Pre conditions
-  - Refer to first test case [[Lambert's_direction_law(cosine law)_01_usability_smk.org]]
+  - Refer to first test case [[https://github.com/Virtual-Labs/virtual-laboratory-experience-in-fluid-and-thermal-sciences-iitg/blob/master/test-cases/integration_test-cases/LambertDirectLaw/LambertDirectLaw_01_usability_smk.org][LambertDirectLaw_01_usability_smk.org]]
 
 * Post conditions
    - Nil
 
 * Test Steps
-  1. Refer to Lambert's_direction_law(cosine law)_04_software_smk.org
+  1. Refer to LambertDirectLaw_04_software_smk.org
   2. Click on "Click this link to download the required LabVIEW runtime engine........" link
 
 
 * Expected result
-  1.Refer to Lambert's_direction_law(cosine law)_04_software_smk.org
+  1.Refer to LambertDirectLaw_04_software_smk.org
   2.The Labview runtime engine should get downloaded in your system. Install it in your system.
 
 * Review comments
