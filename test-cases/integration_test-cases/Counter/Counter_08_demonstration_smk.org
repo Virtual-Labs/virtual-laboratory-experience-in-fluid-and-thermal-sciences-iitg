@@ -1,0 +1,25 @@
+* Author: Biju Das
+* Date Created: 05 JUNE 2016
+* Environment
+  - Ubuntu-16.04
+  - Browsers: Chrome-47.0
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GB RAM , 
+  - Processor:i7
+
+* Objective
+  - To check Demonstration video link of the  "To determine the overall heat transfer coefficient (U) in the counter flow heat exchancher" experiment.
+
+* Pre conditions
+  - Refer to first test case [[Counter_flow_01_usuability_smk.org]]
+
+* Post conditions
+   - Nil
+
+* Test Steps
+  1. Click on the video. 
+
+* Expected result
+  1. Respective video should be played.
+
+* Review comments

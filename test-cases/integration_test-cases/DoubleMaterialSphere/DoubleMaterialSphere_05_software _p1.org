@@ -1,0 +1,29 @@
+* Author: Biju Das
+* Date Created: 05 JUNE 2016
+* Environment
+  - Ubuntu-16.04
+  - Browsers: Chrome-47.0,Chromium-45.0
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GB RAM , 
+  - Processor:i7
+
+* Objective
+  - To check the link in the Software of the "Conduction analysis of Double Material Sphere" experiment
+
+
+* Pre conditions
+  - Refer to first test case [[ Conduction_analysis_of_Double_Material_Sphere_01_usability_smk.org ]]
+
+* Post conditions
+   - Nil
+
+* Test Steps
+  1. Refer the Conduction_analysis_of_Double_Material_Sphere_04_software_smk.org
+  2. Click on "Click this link to download the required LabVIEW runtime engine........" link
+
+
+* Expected result
+  1.Refer the Conduction_analysis_of_Double_Material_Sphere_04_software_smk.org
+  2.The Labview runtime engine should get downloaded in your system. Install it on your system.
+
+* Review comments

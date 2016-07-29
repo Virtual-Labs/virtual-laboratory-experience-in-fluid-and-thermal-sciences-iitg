@@ -1,0 +1,29 @@
+﻿* Author: Biju Das
+* Date Created: 12 JUNE 2016
+* Environment
+  - Ubuntu-16.04
+  - Browsers: Chrome-47.0,Chromium-45.0
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GB RAM , 
+  - Processor:i7
+
+* Objective
+  - To check download link in the Software of the "To investigate the Lambert’s distance law" experiment
+
+
+* Pre conditions
+  - Refer to first test case [[Lambert's_distance_law_01_usability_smk.org]]
+
+* Post conditions
+   - Nil
+
+* Test Steps
+  1. Refer to Lambert's_distance_law_04_software_smk.org
+  2. Click on "Click this link to download the required LabVIEW runtime engine........" link
+
+
+* Expected result
+  1. Refer to Lambert's_distance_law_04_software_smk.org
+  2. The labview runtime engine should get downloaded in your system. Install it in your system
+
+* Review comments
