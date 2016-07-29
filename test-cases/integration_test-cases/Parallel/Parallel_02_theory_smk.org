@@ -11,7 +11,7 @@
   - To view the Theory of the "To determine the overall heat transfer coefficient (U) in the parallel flow heat exchanger" experiment
 
 * Pre conditions
-  - Refer to first test case [[Parallel_flow_01_usuability_smk.org]]
+  - Refer to first test case [[https://github.com/Virtual-Labs/virtual-laboratory-experience-in-fluid-and-thermal-sciences-iitg/blob/master/test-cases/integration_test-cases/Parallel/Parallel_01_usuability_smk.org][Parallel_01_usuability_smk.org]]
 
 * Post conditions
    - Nil
