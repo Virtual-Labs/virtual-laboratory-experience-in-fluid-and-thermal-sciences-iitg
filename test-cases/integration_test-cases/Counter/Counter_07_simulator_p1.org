@@ -11,19 +11,19 @@
   - To perform the experiment of the Simulator of the "To determine the overall heat transfer coefficient (U) in the counter flow heat exchanger" experiment
 
 * Pre conditions
-  - Refer to first test case [[Counter_flow_01_usuability_smk.org]]
+  - Refer to first test case [[https://github.com/Virtual-Labs/virtual-laboratory-experience-in-fluid-and-thermal-sciences-iitg/blob/master/test-cases/integration_test-cases/Counter/Counter_01_usuability_smk.org][Counter_01_usuability_smk.org]]
 
 * Post conditions
    - Nil
 
 * Test Steps
-  1. Refer to Counter_flow_06_simulator_smk.org
+  1. Refer to Counter_06_simulator_smk.org
   2. Click on " CLICK HERE TO DOWNLOAD THE EXPERIMENT " link
   3. Run the exe file
 
 
 * Expected result
-  1.Refer to Counter_flow_06_simulator_smk.org
+  1.Refer to Counter_06_simulator_smk.org
   2.The exe file should get downloaded in your system.
   3.The experiment should run properly.
 
