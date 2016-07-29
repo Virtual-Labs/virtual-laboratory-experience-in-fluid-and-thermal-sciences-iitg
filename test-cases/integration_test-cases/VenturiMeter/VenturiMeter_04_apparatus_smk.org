@@ -11,7 +11,7 @@
   - To view the Apparatus of the "Flow through Venturi meter" experiment
 
 * Pre conditions
-   - Refer to first test case [[ Flow_through_Venturi_meter_01_usability_smk.org]]
+  - Refer to first test case [[https://github.com/Virtual-Labs/virtual-laboratory-experience-in-fluid-and-thermal-sciences-iitg/blob/master/test-cases/integration_test-cases/VenturiMeter/VenturiMeter_01_usability_smk.org][VenturiMeter_01_usability_smk.org]]
 
 * Post conditions
    - Nil
