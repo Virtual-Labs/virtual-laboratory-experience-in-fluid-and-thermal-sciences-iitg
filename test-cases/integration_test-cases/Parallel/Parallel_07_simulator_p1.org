@@ -11,19 +11,19 @@
   - To perform the experiment of the Simulator of the "To determine the overall heat transfer coefficient (U) in the parallel flow heat exchanger" experiment
 
 * Pre conditions
-  - Refer to first test case [[Parallel_flow_01_usuability_smk.org]]
+  - Refer to first test case [[https://github.com/Virtual-Labs/virtual-laboratory-experience-in-fluid-and-thermal-sciences-iitg/blob/master/test-cases/integration_test-cases/Parallel/Parallel_01_usuability_smk.org][Parallel_01_usuability_smk.org]]
 
 * Post conditions
    - Nil
 
 * Test Steps
-  1. Refer to Parallel_flow_06_simulator_smk.org
+  1. Refer to Parallel_06_simulator_smk.org
   2. Click on " CLICK HERE TO DOWNLOAD THE EXPERIMENT " link
   3. Run the exe file.
 
 
 * Expected result
-  1.Refer to Parallel_flow_06_simulator_smk.org
+  1.Refer to Parallel_06_simulator_smk.org
   2.The exe flie should get downloaded in your system.
   3.The experiment should run properly
 
