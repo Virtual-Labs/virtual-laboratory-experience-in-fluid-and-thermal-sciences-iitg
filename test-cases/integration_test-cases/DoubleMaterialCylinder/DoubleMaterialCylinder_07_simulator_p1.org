@@ -11,7 +11,7 @@
   - To perform the experiment of the "Conduction analysis of Double Material Cylinder" experiment
 
 * Pre conditions
-  - Refer to first test case [[ Conduction_analysis_of_Double_Material_Cylinder_01_usability_smk.org]]
+  - Refer to first test case [[https://github.com/Virtual-Labs/virtual-laboratory-experience-in-fluid-and-thermal-sciences-iitg/blob/master/test-cases/integration_test-cases/DoubleMaterialCylinder/DoubleMaterialCylinder_01_usability_smk.org][DoubleMaterialCylinder_01_usability_smk.org]]
 
 * Post conditions
    - Nil
