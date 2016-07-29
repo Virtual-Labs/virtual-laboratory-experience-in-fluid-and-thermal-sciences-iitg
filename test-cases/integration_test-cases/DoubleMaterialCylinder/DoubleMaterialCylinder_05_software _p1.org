@@ -18,12 +18,12 @@
    - Nil
 
 * Test Steps
-  1. Refer to  test case Conduction_analysis_of_Double_Material_Cylinder_04_software_smk.org
+  1. Refer to  test case DoubleMaterialCylinder_04_software_smk.org
   2. Click on "Click this link to download the required LabVIEW runtime engine........" link
 
 
 * Expected result
-  1.Refer to  test case Conduction_analysis_of_Double_Material_Cylinder_04_software_smk.org
+  1.Refer to  test case DoubleMaterialCylinder_04_software_smk.org
   2. The Labview runtime engine should get downloaded in your system. Install it in your system.
 
 * Review comments
