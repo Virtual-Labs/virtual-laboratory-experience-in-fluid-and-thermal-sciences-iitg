@@ -1,4 +1,4 @@
-﻿* Author: Biju Das
+* Author: Biju Das
 * Date Created:  12 JUNE 2016
 * Environment
   - Ubuntu-16.04
