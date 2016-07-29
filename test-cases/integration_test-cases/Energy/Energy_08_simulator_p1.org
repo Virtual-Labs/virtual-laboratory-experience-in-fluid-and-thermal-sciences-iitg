@@ -11,18 +11,18 @@
   - To perform the experiment of the Simulator of the "Energy losses in pipe flow" experiment
 
 * Pre conditions
-  - Refer to first test case [[Energy_losses_01_usability_smk.org]]
+  - Refer to first test case [[https://github.com/Virtual-Labs/virtual-laboratory-experience-in-fluid-and-thermal-sciences-iitg/blob/master/test-cases/integration_test-cases/Energy/Energy_01_usability_smk.org][Energy_01_usability_smk.org]]
 
 * Post conditions
    - Nil
 
 * Test Steps
-  1. Refer to Energy_losses_07_simulator_smk.org
+  1. Refer to Energy_07_simulator_smk.org
   2. Click on " CLICK HERE TO DOWNLOAD THE EXPERIMENT " link
   3. Run the exe file
 
 * Expected result
-  1. Refer to Energy_losses_07_simulator_smk.org
+  1. Refer to Energy_07_simulator_smk.org
   2. The exe file should get downloaded in your system.
   3. The experiment should run properly.
 
